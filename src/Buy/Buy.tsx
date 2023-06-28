@@ -94,7 +94,7 @@ export const Buy: React.FC = () => {
       setShow(true)
     }
 
-    axios.post('/sendMessage', data)
+    axios.post('http://185.189.12.218:4444/sendMessage', data)
       .then(response => {
         if (response.data.success) {
           console.log('Сообщение отправлено');
