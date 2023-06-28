@@ -37,7 +37,7 @@ export const Header = () => {
             <Navbar.Toggle />
             <Navbar.Collapse className='justify-content-end'>
               <Navbar.Text>
-                <Link to='/basket'>
+                <Link className="basket-link" to='/basket'>
                   <ButtonGroup aria-label='Basic example'>
                     <Button variant='danger'>
                       <svg
