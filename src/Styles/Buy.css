@@ -5,8 +5,8 @@
 }
 
 .ButtonGroup-buy {
-    display: flex;
-    justify-content: center;
+    display: flex !important;
+    justify-content: center !important;
 }
 
 .left-buy {
@@ -18,10 +18,10 @@
 }
 
 .ok-alert {
-    text-align: center;
-    position: fixed;
-    top: 300px;
-    z-index: 2;
+    text-align: center !important;
+    position: fixed !important;
+    top: 300px !important;
+    z-index: 2 !important;
 }
 
 
