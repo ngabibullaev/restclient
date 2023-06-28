@@ -82,7 +82,7 @@ export const Review: React.FC = () => {
 
     useEffect(() => {
         axios
-            .get("/setting")
+            .get("http://185.189.12.218:4444/setting")
             .then((response) => setReviews(response.data))
             .catch((error) => console.error(error));
     }, []);
