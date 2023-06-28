@@ -1,0 +1,35 @@
+.basket-main-img {
+    display: block;
+    margin: auto;
+    width: 250px;
+}
+
+.basket-main {
+    background-color: rgb(231, 231, 231);
+    margin-top: 10px;
+    border: 2px solid black;
+    border-radius: 20px;
+    
+}
+
+.basket-main-title {
+    text-align: center;
+    margin-top: 60px;
+}
+
+@media screen and (max-width: 523px) {
+    .basket-main-title {
+        margin-top: 0px;
+    }
+  }
+
+  .basket-main-p {
+    text-align: center;
+  }
+
+.basket-main-btn {
+    display: block !important;
+    margin: 0 auto !important;
+    padding: 10px 80px !important;
+    margin-bottom: 10px !important;
+}

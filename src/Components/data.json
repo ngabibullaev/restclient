@@ -1,0 +1,213 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/9e45103699d769407544ff0c693b6772.jpg?v1599481515",
+        "name": "Пицца Цезарь",
+        "title": "Курица, соус Цезарь, черри, сыр, соус, пикантный",
+        "price": 310,
+        "category": 1,
+        "rating": 81,
+        "new": 1
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/024af6842abcdf7ba38ec89537c58eef.jpg?v1599481841",
+        "name": "Пицца Куриная",
+        "title": "Томат, моцарелла, курица, помидоры грибы, оливки, зелень",
+        "price": 295,
+        "category": 1,
+        "rating": 93,
+        "new": 2
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/e08fa79c49ba9859ee5c80578ba78a99.jpg?v1599481850",
+        "name": "Пицца Мясная",
+        "title": "Томат, моцарелла, фарш, помидоры, грибы, оливки, зелень",
+        "price": 330,
+        "category": 1,
+        "rating": 84,
+        "new": 3
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/96ef7923e550935bccec6bc2161b1dcd.jpg?v1599481834",
+        "name": "Пицца Пеперони",
+        "title": "Сыр моцарелла, колбаса, копчёная курица, помидоры, черри",
+        "price": 310,
+        "category": 1,
+        "rating": 76,
+        "new": 4
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/8092474e23c5fffc56d549127739a192.jpg?v1599481960",
+        "name": "Пицца 4 сыра",
+        "title": "Моцарелла, горгонзола, гауда, пармезан, соус",
+        "price": 290,
+        "category": 1,
+        "rating": 79,
+        "new": 5
+    },
+    {
+        "id": 6,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/1ec261d7188db81ba74b8f6c7ca7e125.jpg?v1599481961",
+        "name": "Пицца Ассорти",
+        "title": "Cыр, помидоры, оливки, орегано, зелень, курица, колбаса, соус пикантный",
+        "price": 360,
+        "category": 1,
+        "rating": 97,
+        "new": 6
+    },
+    {
+        "id": 7,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/8a6cc23ff2603ac512d75bfa35cbe1de.jpg?v1599475572",
+        "name": "Филадельфия",
+        "title": "Рис, сыр, огурцы, лосось",
+        "price": 350,
+        "category": 2,
+        "rating": 94,
+        "new": 7
+    },
+    {
+        "id": 8,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/a0fa50b81f0a1f3fe77f052f352864ae.jpg?v1599475609",
+        "name": "Калифорния",
+        "title": "Рис, нори, майонез, огурцы, лосось, авокадо, эби",
+        "price": 370,
+        "category": 2,
+        "rating": 93,
+        "new": 8
+    },
+    {
+        "id": 9,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/e186e526d0b816fa011cdf8a18d5417e.jpg?v1599477567",
+        "name": "Ойси",
+        "title": "Рис, сыр, креветка, авокадо, унаги соус, соус ойси, лук, тобика, лосось",
+        "price": 450,
+        "category": 2,
+        "rating": 89,
+        "new": 9
+    },
+    {
+        "id": 10,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/47b7d0e225d258ba4cdd891cb4862826.jpg?v1599477201",
+        "name": "Бруклин",
+        "title": "Рис, нори, сыр, лосось, авокадо, угорь, тобико чёрн., тобико красн",
+        "price": 390,
+        "category": 2,
+        "rating": 84,
+        "new": 10
+    },
+    {
+        "id": 11,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/56fab6bc71afa7a1920dcfd836183ffb.jpg?v1599477699",
+        "name": "Сяками",
+        "title": "Рис, майонез, огурцы, авокадо, тобика, креветка, лосось",
+        "price": 365,
+        "category": 2,
+        "rating": 81,
+        "new": 11
+    },
+    {
+        "id": 12,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/44f07abc5f0aa0232f3833b37ee67204.jpg?v1599478348",
+        "name": "Цезарь",
+        "title": "Рис, нори, соус цезарь, помидор, сыр Пармезан, Курица жареная, кляр, панко",
+        "price": 250,
+        "category": 3,
+        "rating": 94,
+        "new": 12
+    },
+    {
+        "id": 13,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/de4677478c398b4893922638031f63d9.jpg?v1599478377",
+        "name": "Вулкан",
+        "title": "Рис, нори, помидор, лосось в кляре, сыр Моцарелла, пармезан, зелень, лук, унаги соус",
+        "price": 320,
+        "category": 3,
+        "rating": 79,
+        "new": 13
+    },
+    {
+        "id": 14,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/c2d6237bbac978af35fddfb8c4a851c3.jpg?v1599478397",
+        "name": "Ойси темпура",
+        "title": "Нори, креветки в кляре, лосось, лук зелёный, икра тобико, сыр президент",
+        "price": 550,
+        "category": 3,
+        "rating": 87,
+        "new": 14
+    },
+    {
+        "id": 15,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/359bd661faa47bb2ccdb14a3b88a4182.jpg?v1599729884",
+        "name": "Нагетсы",
+        "title": "Курица хорошо прожаренная",
+        "price": 170,
+        "category": 4,
+        "rating": 93,
+        "new": 15
+    },
+    {
+        "id": 16,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/5321a7e766c06ed1a721798c4cb65b38.jpg?v1599729858",
+        "name": "Картофель фри",
+        "title": "Картошка хорошо прожаренная",
+        "price": 140,
+        "category": 4,
+        "rating": 91,
+        "new": 16
+    },
+    {
+        "id": 17,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/ab0254486a733758aaa384ae3b2c2cb2.jpg?v1599729870",
+        "name": "Картошка по деревенсик",
+        "title": "Картошка хорошо прожаренная",
+        "price": 170,
+        "category": 4,
+        "rating": 87,
+        "new": 17
+    },
+    {
+        "id": 18,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/be9af81a732424158b9e00c447d66a39.jpg?v1599482257",
+        "name": "Салат цезарь",
+        "title": "Листья салата, помидоры, сухари, соус цезарь, курица, пармезан",
+        "price": 200,
+        "category": 5,
+        "rating": 98,
+        "new": 18
+    },
+    {
+        "id": 19,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/8b69dfa2d68389536d801aa001cb2068.jpg?v1599482336",
+        "name": "Салат оливье",
+        "title": "Солёные огурцы, картофель, морковь, колбаса, майонез",
+        "price": 150,
+        "category": 5,
+        "rating": 93,
+        "new": 19
+    },
+    {
+        "id": 20,
+        "imageUrl": "https://ru.foodsoul.pro/uploads/branches/2132/images/items/medium/ebfeebd0921a2b7c949875105a522237.jpg?v1599482444",
+        "name": "Салат крабовый",
+        "title": "Рис, крабовые палочки, кукуруза, яйца, майонез",
+        "price": 160,
+        "category": 5,
+        "rating": 89,
+        "new": 20
+    },
+    {
+        "id": 21,
+        "imageUrl": "https://www.smilepizza.com.ua/images/cache/1239/1_1500.jpg",
+        "name": "Акция 4 пиццы",
+        "title": "Пицца куринная, Пицца 4 сыра, Пицца ассорти, Пицца пеперони",
+        "price": 999,
+        "category": 1,
+        "rating": 100,
+        "new": 21,
+        "actionsed": "actionsed"
+    }
+]

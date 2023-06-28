@@ -1,0 +1,97 @@
+.foods {
+    margin: 0 auto;
+    /* устанавливаем отступы сверху и снизу равными нулю, а слева и справа автоматически для центрирования */
+    float: none;
+    /* отменяем действие float, если таковое задано в другом месте */
+    background: rgba(0, 0, 0, 0.075) !important;
+    color: white !important;
+    border: 1px solid black !important;
+    margin-top: 30px;
+    width: 18em;
+    border-radius: 20px !important;
+    overflow: hidden;
+    -webkit-box-shadow: 0px 10px 8px 0px rgba(0, 0, 0, 0.2);
+-moz-box-shadow: 0px 10px 8px 0px rgba(0, 0, 0, 0.2);
+box-shadow: 0px 10px 8px 0px rgba(0, 0, 0, 0.2);
+}
+
+.imgFood {
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.imgFood:hover {
+    transform: scale(1.1);
+    border-radius: 20px;
+}
+
+
+.Section {
+    background-color: #424649;
+}
+
+.btnAdd {
+    margin-left: 94px;
+    color: orange !important;
+}
+
+.btnAdd:active, .basket-section-scale:active {
+    transform: scale(0.9);
+}
+
+.textPrice {
+    position: relative;
+    color: orange;
+    font-size: 24px;
+    top: 5px;
+}
+
+.progress,
+.progress-stacked {
+    height: 4px !important;
+    background-color: rgb(173, 173, 173) !important;
+}
+
+.progress-bar {
+    background: rgb(255, 0, 0) !important;
+    background: linear-gradient(90deg, rgba(255, 0, 0, 1) 0%, rgba(255, 211, 9, 1) 50%, rgba(0, 255, 38, 1) 100%) !important;
+}
+
+.rating {
+    color: yellow;
+}
+
+.foodsNone {
+    font-size: 30px;
+    color: rgb(197, 197, 197);
+    text-align: center;
+    margin: 5em auto;
+}
+
+.spinners {
+    position: absolute;
+    left: 47%;
+    top: 17%;
+}
+
+.bottom-bar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Alert {
+    position: fixed;
+    z-index: 4;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 100%;
+    background-color: rgb(230, 230, 230) !important;
+  }
+
+  .action {
+    position: relative;
+    top: -260px;
+    left: 180px;
+    font-size: 16px;
+}

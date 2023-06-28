@@ -1,0 +1,132 @@
+.nav-radius {
+    border-radius: 0 !important;
+    font-size: 20px !important;
+}
+
+.nav-radius-active {
+    border-radius: 0 !important;
+    font-size: 20px !important;
+    background: #424649 !important;
+}
+
+
+
+.Form {
+    display: flex;
+    background: #424649;
+}
+
+.navigation {
+    overflow-x: scroll;
+    border-radius: 0 !important;
+}
+
+.navigation::-webkit-scrollbar {
+    display: none;
+}
+
+
+
+
+.fform {
+    --width-of-input: 200px;
+    --border-height: 1px;
+    --border-before-color: rgba(221, 221, 221, 0.39);
+    --border-after-color: #ff5858;
+    --input-hovered-color: #3a4149;
+    position: relative;
+    width: 80%;
+   }
+   /* styling of Input */
+   .finput {
+    color: #ffffff;
+    background: #424649;
+    font-size: 0.9rem;
+    width: 100%;
+    box-sizing: border-box;
+    padding-inline: 0.5em;
+    padding-block: 0.7em;
+    border: none;
+    border-bottom: var(--border-height) solid var(--border-before-color);
+   }
+   /* styling of animated border */
+   .finput-border {
+    position: absolute;
+    background: var(--border-after-color);
+    width: 0%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    transition: 0.3s;
+   }
+   /* Hover on Input */
+   .finput:hover {
+    background: var(--input-hovered-color);
+   }
+   
+   .finput:focus {
+    outline: none;
+   }
+   /* here is code of animated border */
+   .finput:focus ~ .finput-border {
+    width: 100%;
+   }
+
+   .nav-link {
+    color: rgb(255, 0, 0) !important;
+    text-decoration: underline !important;
+    font-size: 18px !important;
+   }
+
+   .dropdown-menu.show {
+    background-color: rgba(0, 0, 0, 0.74) !important;
+   }
+
+   .dropdown-item {
+    color: white !important;
+   }
+
+   .dropdown-item:hover {
+    background: rgba(255, 2, 2, 0.452) !important;
+   }
+
+   .dropdown-item.active {
+    background: red !important;
+   }
+   
+   .dropdown-item:active {
+    background: rgba(255, 2, 2, 0.452) !important;
+   }
+
+   .fsearch, .fclose {
+    position: absolute;
+    margin-left: -40px;
+    margin-top: 7px;
+   }
+
+   .fclose:hover {
+    cursor: pointer;
+    fill: rgb(56, 56, 56);
+   }
+
+   .line {
+    color: white;
+   }
+
+   .returnAsc {
+    color: rgb(0, 255, 0);
+    cursor: pointer;
+    text-align: center;
+    user-select: none;
+   }
+
+   .returnDesc {
+    color: rgb(255, 0, 0);
+    cursor: pointer;
+    text-align: center;
+    user-select: none;
+   }
+
+   .returnAsc:active, .returnDesc:active {
+    background-color: #1e2125;
+   }
